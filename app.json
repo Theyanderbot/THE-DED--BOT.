@@ -9,13 +9,13 @@
     "url": "heroku/nodejs"
   },
   {
-    "url": "https://github.com/Theyanderbot/THE-DED--BOT..git"
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
   },
   {
-    "url": "https://github.com/DuckyTeam/THE-DED--BOT..git"
+    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
   },
   {
-    "url": "https://github.com/clhuang/THE-DED--BOT..git"
+    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
   }    
  ]
 }
