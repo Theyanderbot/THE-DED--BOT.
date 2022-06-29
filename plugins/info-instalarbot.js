@@ -19,7 +19,7 @@ let text = `
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/THE-DED--BOT..git
+> git clone https://github.com/Bruno/THE-DED--BOT..git
 > cd THE-DED--BOT.
 > yarn install 
 > npm install
