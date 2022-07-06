@@ -1,7 +1,8 @@
 /* 
 
 Codigo abierto - Dejar creditos
-Created by https://github.com/BrunoSobrino 
+Created by https://github.com/Theyanderbot 
+
 
 👇🏻 EMPEIZA A MODIFICAR DESDE AQUÍ 👇🏻 */
 
@@ -341,7 +342,7 @@ message: wm,
 orderTitle: 'WaBot',
 thumbnail: imagen2, 
 sellerJid: '0@s.whatsapp.net' }}}}      
-const owner = "5219992095479@s.whatsapp.net"
+const owner = "50671762786@s.whatsapp.net"
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]
 const buttons = [
@@ -356,7 +357,7 @@ jpegThumbnail: imagen1,
 caption: texto1,
 fileLength: "99999999999999",
 mentions:[m.sender, owner],
-footer: `𝔹𝕪 𝔹𝕣𝕦𝕟𝕠 𝕊𝕠𝕓𝕣𝕚𝕟𝕠`,
+footer: `𝔹𝕪 Yander Arias`,
 buttons: buttons,
 headerType: 4,   
 contextInfo: {
