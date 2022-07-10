@@ -39,7 +39,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> cd THE-DED--BOT.
 > yarn install 
 > npm install
 > npm update
@@ -50,7 +50,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd THE-DED--BOT.
 > npm start
 ```
 
@@ -64,12 +64,17 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 🔥 ACTIVAR EN ACIDIC NODES 🔥`
-https://acidicnodes.com
-https://status.acidicnodes.com
-https://kb.acidicnodes.com
-https://discord.acidicnodes.com
-https://ultimate.acidicnodes.com
+``
+●https://acidicnodes.com
 
+●https://status.acidicnodes.com
+
+●https://kb.acidicnodes.com
+
+●https://discord.acidicnodes.com
+
+●https://ultimate.acidicnodes.com
+``
 ### `—◉ 📝 NOTAS 📝`
 ```bash
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
