@@ -64,7 +64,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 🔥 ACTIVAR EN ACIDIC NODES 🔥`
-``
+
 ●https://acidicnodes.com
 
 ●https://status.acidicnodes.com
@@ -74,7 +74,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ●https://discord.acidicnodes.com
 
 ●https://ultimate.acidicnodes.com
-``
+
 ### `—◉ 📝 NOTAS 📝`
 ```bash
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
