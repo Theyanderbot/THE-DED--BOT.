@@ -70,7 +70,7 @@ let str = `
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
 
 *Nombre del creador:Yander Arias*
-*Número del creador:wa.me//50671762786*
+*Número del creador:wa.me//50670531404*
 
 *<𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋/>*
 
