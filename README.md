@@ -33,7 +33,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Theyanderbot/THE-DED--BOT. 
+> git clone https://github.com/Theyanderbot/THE-DED--BOT..git
 > cd THE-DED--BOT.
 > yarn install 
 > npm install
