@@ -70,8 +70,8 @@ let str = `
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
 
 *Nombre del creador:Yander Arias*
-*Número del creador:wa.me//50670531404*
-
+*Número del creador:wa.me//50671103203*
+*Usuario premiun😎:Black 
 *<𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋/>*
 
 ° ඬ ⃟ 💟 _${usedPrefix}grupos_
