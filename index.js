@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('THE DED -BOT\ DED BOT', {
+say('𝘿𝘼𝙍𝙆-𝙈𝘼𝙉', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
