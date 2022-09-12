@@ -471,9 +471,9 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delcmd *<responder a sticker/imagen con comando o texto asignado>*_
 `.trim()
 let buttons = [
-{ buttonId: '#donar', buttonText: { displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮' }, type: 1 },
-{ buttonId: '#owner', buttonText: { displayText: '🌹 𝙾𝚆𝙽𝙴𝚁 🌹' }, type: 1 }]
-//{ buttonId: '#infobot', buttonText: { displayText: '🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾' }, type: 1 }]
+{ buttonId: '#donar', buttonText: { displayText: '😘 𝙳𝙾𝙽𝙰𝚁 😘' }, type: 1 },
+{ buttonId: '#owner', buttonText: { displayText: '👑 𝙾𝚆𝙽𝙴𝚁 👑' }, type: 1 }]
+//{ buttonId: '#infobot', buttonText: { displayText: '🔥 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🔥' }, type: 1 }]
 let buttonMessage = {
 image: imagen1,
 caption: str.trim(),
@@ -487,10 +487,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐓𝐇𝐄 𝐌𝐘𝐒𝐓𝐈𝐂 - 𝐁𝐎𝐓 👑',
+title: '👑 𝐓𝐇𝐄-𝐃𝐄𝐃-𝐁𝐎𝐓 👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.paypal.me/TheShadowBrokers133`
+sourceUrl: `https://www.paypal.me/yandervillarevia670`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
