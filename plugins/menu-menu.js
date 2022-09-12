@@ -16,7 +16,7 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-*ミ❤️ HELLO ✨${taguser}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 THE-DED-BOT ❤️彡*
+*👑 HELLO ✨${taguser}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝘿𝘼𝙍𝙆-𝙈𝘼𝙉 👑*
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
@@ -31,7 +31,7 @@ ${readMore}
 ° ඬ ⃟ ❌ _${usedPrefix}grouplist_
 ° ඬ ⃟ ❌ _${usedPrefix}owner_
 ° ඬ ⃟ ❌ _${usedPrefix}script_
-° ඬ ⃟ 😘 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+° ඬ ⃟ ❌ _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
 
 *<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
 
@@ -96,7 +96,7 @@ ${readMore}
 
 *<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
 
-° ඬ⃟🔰 _${usedPrefix}reporte *<texto>*_
+° ඬ⃟🚨 _${usedPrefix}reporte *<texto>*_
 
 *<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
 
@@ -487,7 +487,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐓𝐇𝐄-𝐃𝐄𝐃-𝐁𝐎𝐓 👑',
+title: '👑 𝘿𝘼𝙍𝙆-𝙈𝘼𝙉 👑',
 body: null,
 thumbnail: img,
 sourceUrl: `https://www.paypal.me/yandervillarevia670`
