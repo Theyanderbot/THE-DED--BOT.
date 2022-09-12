@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['50670531404', '👑 TEH DED - Creador 👑', true],
-  ['50663194732', '🤖 THE DED - Bot 🤖', true],
+  ['50671103203', '👑 TEH DED - Creador 👑', true],
+  ['50671103203', '🤖 THE DED - Bot 🤖', true],
   ['50671103203']
 ] // Cambia los numeros que quieras
 global.mods = [] 
@@ -81,9 +81,9 @@ global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
     let emot = {
-      level: '🏆',
+      level: '🥵',
       limit: '💎',
-      exp: '🕹️'
+      exp: '🔥'
     }
     let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
     if (!results.length) return ''
