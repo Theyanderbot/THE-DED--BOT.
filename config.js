@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['50571103203', '👑 𝘿𝘼𝙍𝙆 - Creador 👑', true],
+  ['50671103203', '👑 𝘿𝘼𝙍𝙆 - Creador 👑', true],
 
  
 global.suittag = ['50671103203'] 
