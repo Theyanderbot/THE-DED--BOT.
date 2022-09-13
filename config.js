@@ -8,7 +8,7 @@ import fs from 'fs'
 
 global.owner = [
 
-  ['50670531404', '👑 Dark - Creador 👑', true],
+  ['50671103203', '👑 Dark - Creador 👑', true],
 
   
 
