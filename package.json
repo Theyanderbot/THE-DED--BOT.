@@ -20,12 +20,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Theyanderbot/THE-DED--BOT
-        .git"
+        "url": "git+https://github.com/Theyanderbot/THE-DED--BOT.git"
+       
     },
     "bugs": {
         "url": "https://github.com/Theyanderbot/THE-DED--BOT./issues"
-    },
+    }
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "@adiwajshing/baileys": "github:Theyanderbot/baileys",
